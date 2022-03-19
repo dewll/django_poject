@@ -1,0 +1,25 @@
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Subject: Password reset on 127.0.0.1:8000
+From: webmaster@localhost
+To: Balogun@gmail.com
+Date: Thu, 17 Mar 2022 08:37:33 -0000
+Message-ID: <164750625306.11036.9199073266467379921@DESKTOP-B1SMG6N>
+
+
+You're receiving this email because you requested a password reset for your user account at 127.0.0.1:8000.
+
+Please go to the following page and choose a new password:
+
+http://127.0.0.1:8000/accounts/reset/Mw/b2fc2k-0abeda4d525a01778cbd8df1cee36b81/
+
+Your username, in case you’ve forgotten: Balogun
+
+Thanks for using our site!
+
+The 127.0.0.1:8000 team
+
+
+
+-------------------------------------------------------------------------------
